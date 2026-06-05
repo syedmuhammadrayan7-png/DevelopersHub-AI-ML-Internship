@@ -1,5 +1,7 @@
 # MediGuide AI
+## Live Demo
 
+[Open MediGuide AI]((https://mediguide-ai-rayan.streamlit.app/))
 ## Objective
 
 MediGuide AI is a modern Streamlit chatbot for the AI/ML Engineering Internship Task 4: General Health Query Chatbot. It answers general health-related questions using prompt engineering, the Google Gemini API, emergency safety filtering, and a local fallback response system.
